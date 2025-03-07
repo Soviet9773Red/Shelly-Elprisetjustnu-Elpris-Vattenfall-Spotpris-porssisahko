@@ -5,7 +5,7 @@ Ett gratis och öppen källkodsbaserat skript för Shelly-enheter som styr utgå
 
 För att skriptet ska fungera krävs inga extra enheter eller program, såsom HomeAssistant och Raspberry Pi. Du får en elegant och mycket billig lösning som funktionellt motsvarar dyrare system eller sådana som kräver ytterligare utrustning.
 
-Mitt skript körs direkt på enheten Shelly, som via ditt hemmanätverk (WiFi) ansluter till en leverantör av spotpriser och sedan styr ett relä som slår på/av dina elvärmare och vattenbojler under de timmar när elpriserna är låga eller inte överskrider den priströskel du har satt.<br>
+Mitt skript körs direkt på enheten Shelly, som via ditt hemmanätverk (WiFi) ansluter till en leverantör av spotpriser och sedan styr ett relä som slår på/av dina elvärmare och varmvattenberedare under de timmar när elpriserna är låga eller inte överskrider den priströskel du har satt.<br>
 
 <b><a href="https://www.shelly.com/de/collections/all-products">Shelly-enheterna</a></b>  är mycket kompakta, finns i ett brett sortiment och kan antingen presenteras som ett "smart uttag" eller som en enhet för DIN-skena, som kan installeras i din elcentral.<br>
 
