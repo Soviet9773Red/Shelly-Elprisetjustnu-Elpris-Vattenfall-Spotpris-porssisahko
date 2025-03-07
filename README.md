@@ -1,5 +1,5 @@
-<p><b>SE:</b> shelly-elprisetjustnu-Nordpool-spotpris-börspris: el spotprisstyrning för Shelly-enheter:  Pro3, Plus1, Plus1 PM, PlugS.
-br>Licens: GitHub<br> 
+Licens: GitHub
+<p><b>SE:</b> Shelly elprisetjustnu Nordpool spotpris börspris: el spotprisstyrning för Shelly-enheter:  Pro3, Plus1, Plus1 PM, PlugS.<br><br>
 Spotpris: ett svenskt ord för elbörspris.<br> 
 Ett gratis och öppen källkodsbaserat skript för Shelly-enheter som styr utgångar baserat på Nordpools elbörspris. Skriptet kör sin egen webbserver och låter dig spara inställningar direkt i Shellys minne. Fullt konfigurerbart och övervakat via en webbläsare. Skriptet använder API från <b><a href="https://www.elprisetjustnu.se/">Elprisetjustnu.se</a></b> utan behov av andra tjänster. Ingen registrering krävs – det fungerar direkt.<br>
 
